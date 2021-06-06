@@ -41,13 +41,13 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/dark-player/igbrute
+$ git clone https://github.com/tapancyberexpert/crackinstagram
 ```
 ```
 $ ls
 ```
 ```
-$ cd igbrute
+$ cd crackinstagram
 ```
 ```
 $ ls
@@ -68,31 +68,16 @@ $ bash igbrute.sh
 
 
 ## 📌 ***Full video tutorial***:
+https://www.youtube.com/channel/UCECwQudL-F-CT9pwP21gMoA/about
 
 ## 🔗 ***Check this***
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/InfinityTrickster
+https://www.youtube.com/channel/UCECwQudL-F-CT9pwP21gMoA/about
 
 ### Chekout our webite:
-https://www.infinitytrickster.unaux.com
-
-## 👥 ***Join***
-
-### Facebook group: 
-https://www.facebook.com/groups/1936478173310085
-
-### Telegram channel:
-https://t.me/darkplayer
-
-### Facebook page:
-https://www.facebook.com/Noob-Hackers-250938565573643
-
-### Instagram: 
-https://www.instagram.com/infinity.trickster
-
-### Pinterest:
-https://in.pinterest.com/darkplayer
+https://www.asdacademy.in
+https://www.asdcybersecurity.in
 
 ### My GitHub ID link:
 https://www.github.com/dark-player
